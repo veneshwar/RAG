@@ -1,0 +1,7 @@
+{
+  "name": "Copy of RAG Intelligence - Advanced Document AI",
+  "description": "Enterprise-grade Retrieval Augmented Generation platform. Query your private data with verifiable confidence levels and hallucination detection.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
